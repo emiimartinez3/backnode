@@ -1,17 +1,17 @@
 [
     {
         "name": "batman",
-        "precio": 1450,
+        "price": "1450",
         "id": 1
     },
     {
         "name": "shingeki no kioyin",
-        "precio": 2900,
+        "price": "2900",
         "id": 2
     },
     {
         "name": "the walking dead",
-        "precio": 1500,
+        "price": "1500",
         "id": 3
     }
 ]

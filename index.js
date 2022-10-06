@@ -55,7 +55,8 @@ class Contenedor{
 
 const contenedor = new Contenedor("products.txt")
 
-contenedor.save({"name": "emiliano", "edad": 28 })
-contenedor.save({"name": "lucas", "edad": 29 })
-contenedor.save({"name": "peloncha", "edad": 22 })
-console.log(contenedor.getById(2))
+contenedor.save({"name": "batman", "precio": 1450 })
+contenedor.save({"name": "shingeki no kioyin", "precio": 2900 })
+contenedor.save({"name": "the walking dead", "precio": 1500 })
+ 
+module.exports = Contenedor
